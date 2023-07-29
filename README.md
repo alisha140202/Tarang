@@ -26,7 +26,7 @@
 - JQuery
     - The project uses **JQuery** to enable Bootstraps full functionality
  
- ##Overview    
+ ## Overview    
  ![11111](https://github.com/alisha140202/Tarang/assets/102052712/ccacd77d-8d29-42b4-ae45-9a418cfa34b3)
 ![222222](https://github.com/alisha140202/Tarang/assets/102052712/34146d87-c6f5-464e-b2be-3a5e72d3df23)
 
