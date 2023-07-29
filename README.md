@@ -25,3 +25,6 @@
 
 - JQuery
     - The project uses **JQuery** to enable Bootstraps full functionality (e.g. collapsible navbar etc)
+ 
+    - ##Overview
+      
