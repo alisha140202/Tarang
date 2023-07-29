@@ -24,7 +24,5 @@
     - The project uses **Bootstrap** to style the page and user experience.
 
 - JQuery
-    - The project uses **JQuery** to enable Bootstraps full functionality (e.g. collapsible navbar etc)
- 
-    - ##Overview
+    - The project uses **JQuery** to enable Bootstraps full functionality 
       
